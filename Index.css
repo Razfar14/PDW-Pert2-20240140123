@@ -88,17 +88,6 @@ p {
     margin-bottom: 30px;
 }
 
-/* Gambar */
-img {
-    display: block;
-    margin: 0 auto;
-    border-radius: 15px;
-    max-width: 100%; /* Agar tidak keluar layar di HP */
-    height: auto;   /* Menjaga proporsi agar tidak penyet */
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
-}
-
 img:hover {
     transform: scale(1.02);
 }
